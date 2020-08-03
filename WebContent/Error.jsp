@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <%@ page errorPage="myerrorpage.jsp" %>  
   
  <%= 100/0 %>  
