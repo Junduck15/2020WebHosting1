@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<% String fname = request.getParameter("fname");
-String lname = request.getParameter("lname");
-out.print("Welcome " + fname + " " + lname );
-%>
+<h1>Error Occured</h1>
 </body>
 </html>
